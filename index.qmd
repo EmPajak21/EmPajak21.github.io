@@ -1,0 +1,56 @@
+---
+title: ""
+format: html
+---
+
+<html>
+<head>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap" rel="stylesheet">
+<body>
+
+<div class="container">
+  <img class="circle-image" src="imgs/EP_Grad.jpg" alt="Circular Image">
+</div>
+
+<center>
+Emma Pajak
+<br>
+PhD Candidate
+<br>
+Supply Chain Optimisation
+</center>
+<hr>
+
+</body>
+</html>
+
+<style scoped>
+table {
+  font-size: 14px;
+}
+</style>
+### About Me
+- Industrial project in collaboration with and funded by BASF.
+- Optimisation and ML for Process Engineering [(OptiML PSE)](https://www.imperial.ac.uk/a-z-research/optimisation-and-machine-learning-for-process-engineering/).
+- EPSRC Centre for Doctoral Training [(React CDT)](https://www.imperial.ac.uk/next-generation-synthesis-reaction-technology/the-cdt-programme/).
+- Supervised by Dr Antonio Del Rio Chanona.
+
+
+
+### Education
+| Degree | Grade | Institution | Year |
+|:--------|:-------|:-------------|:------|
+| PhD - Supply Chains (BASF) | -    | Imperial College London | 2023-2027 |
+| MEng Chemical Engineering | 1st Class Honours| Imperial College London | 2019-2023 |
+
+### Experience
+
+| Position | Company | Year |
+|:----------|:---------|:------|
+| Nuclear Engineeering Placement Student | AtkinsRéalis | 2022 |
+| President's Ambassador (Outreach)| Imperial College London | 2019-2022
+| Engineering Summer Student | Frazer Nash | 2021 |
+
+

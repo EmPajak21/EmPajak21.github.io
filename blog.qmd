@@ -1,0 +1,23 @@
+<html>
+<head>
+    <title>Under Construction</title>
+    <style>
+        body {
+            text-align: center;
+            padding: 100px;
+            font-family: Arial, sans-serif;
+        }
+        h1 {
+            font-size: 36px;
+            margin-bottom: 20px;
+        }
+        p {
+            font-size: 24px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Under Construction</h1>
+    <p>Coming Soon!</p>
+</body>
+</html>

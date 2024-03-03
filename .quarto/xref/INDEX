@@ -1,0 +1,17 @@
+{
+  "walkthrough.qmd": {
+    "walkthrough.html": "b05fc416"
+  },
+  "about.qmd": {
+    "about.html": "e8cbb612"
+  },
+  "index.qmd": {
+    "index.html": "84aa132f"
+  },
+  "projects.qmd": {
+    "projects.html": "0da4f523"
+  },
+  "blog.qmd": {
+    "blog.html": "497bc0bf"
+  }
+}

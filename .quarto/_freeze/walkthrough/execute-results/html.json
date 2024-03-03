@@ -1,0 +1,12 @@
+{
+  "hash": "5b2216143f2898b44de0debf2515ec9f",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: \"\"\nformat: html\n---\n\n<img src=\"imgs\\EP_Grad.jpg\" alt=\"Alt text\" style=\"width:200px;\">\n\n\nI  am a PhD candidate at Imperial College London working in Optimisation and Machine Learning for Process Engineering [(OptiML PSE)](https://www.imperial.ac.uk/a-z-research/optimisation-and-machine-learning-for-process-engineering/) in the Department of Chemical Engineering supervised by Dr Antonio Del Rio Chanona.|\n\nI am conducting my studies as a student in the EPSRC Centre for Doctoral Training in Next Generation Synthesis & Reaction Technology [(React CDT)](https://www.imperial.ac.uk/next-generation-synthesis-reaction-technology/the-cdt-programme/).\n\nMy research is focused on supply chain optimisation in collaboration with and funded by BASF.\n\n## Markdown\n\nMarkdown is an easy to read and write text format:\n\n- It's _plain text_ so works well with version control\n- It can be **rendered** into HTML, PDF, and more\n- Learn more at: <https://quarto.org/docs/authoring/>\n\n## Code Cell\n\nHere is a Python code cell:\n\n::: {#2c3d9028 .cell execution_count=1}\n``` {.python .cell-code}\nimport os\nos.cpu_count()\n```\n\n::: {.cell-output .cell-output-display execution_count=25}\n```\n12\n```\n:::\n:::\n\n\n## Equation\n\nUse LaTeX to write equations:\n\n$$\n\\chi' = \\sum_{i=1}^n k_i s_i^3\n$$\n\n",
+    "supporting": [
+      "walkthrough_files\\figure-html"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}
