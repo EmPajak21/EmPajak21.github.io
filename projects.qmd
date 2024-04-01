@@ -1,14 +1,14 @@
 <html>
 <head>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap" rel="stylesheet">
-<title>Under Construction</title>
-<style>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap" rel="stylesheet">
+    <title>Streamlit App</title>
+    <style>
         body {
             text-align: center;
             padding: 100px;
-            font-family: Arial, sans-serif;
+            font-family: 'Roboto Mono', monospace;
         }
         h1 {
             font-size: 36px;
@@ -17,10 +17,15 @@
         p {
             font-size: 24px;
         }
-</style>
+        .streamlit-app {
+            width: 800px; /* Adjust the width as needed */
+            margin: 0 auto; /* Center the app horizontally */
+        }
+    </style>
 </head>
-<body>
-    <h1>Under Construction</h1>
-    <p>Coming Soon!</p>
-</body>
-</html>
+
+
+<br>
+[![](imgs/thumbnail.svg)](bayes_opt.html)
+
+### Streamlit Bayesian Optimization Interactive Tool

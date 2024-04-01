@@ -2,9 +2,9 @@
   {
     "objectID": "projects.html",
     "href": "projects.html",
-    "title": "\nUnder Construction\n",
+    "title": "Emma Pajak",
     "section": "",
-    "text": "Under Construction\n\n\n\n\n\nUnder Construction\n\n\nComing Soon!"
+    "text": "Streamlit App\n\n\n\n \n\nStreamlit Bayesian Optimization Interactive Tool"
   },
   {
     "objectID": "blog.html",
@@ -19,5 +19,47 @@
     "title": "Emma Pajak",
     "section": "",
     "text": "Emma Pajak  PhD Candidate  Supply Chain Optimisation\n\n\n\n\n\n\nAbout Me\n\nIndustrial project in collaboration with and funded by BASF.\nOptimisation and ML for Process Engineering (OptiML PSE).\nEPSRC Centre for Doctoral Training (React CDT).\nSupervised by Dr Antonio Del Rio Chanona.\n\n\n\nEducation\n\n\n\n\n\n\n\n\n\nDegree\nGrade\nInstitution\nYear\n\n\n\n\nPhD - Supply Chains (BASF)\n-\nImperial College London\n2023-2027\n\n\nMEng Chemical Engineering\n1st Class Honours\nImperial College London\n2019-2023\n\n\n\n\n\nExperience\n\n\n\n\n\n\n\n\nPosition\nCompany\nYear\n\n\n\n\nNuclear Engineeering Placement Student\nAtkinsRéalis\n2022\n\n\nPresident’s Ambassador (Outreach)\nImperial College London\n2019-2022\n\n\nEngineering Summer Student\nFrazer Nash\n2021"
+  },
+  {
+    "objectID": "projects.html#project-1",
+    "href": "projects.html#project-1",
+    "title": "My Projects",
+    "section": "Project 1",
+    "text": "Project 1\n\n\n\n  Project 1\n&lt;/div&gt;"
+  },
+  {
+    "objectID": "projects.html#project-2",
+    "href": "projects.html#project-2",
+    "title": "Emma Pajak",
+    "section": "Project 2",
+    "text": "Project 2\n\n\n\n  Project 2\n&lt;/div&gt;"
+  },
+  {
+    "objectID": "bayes_opt.html",
+    "href": "bayes_opt.html",
+    "title": "Link to Page",
+    "section": "",
+    "text": "Streamlit App\n\n\n\n\nLink to Page"
+  },
+  {
+    "objectID": "projects.html#streamlit-bayesian-optimization-interactive-tool",
+    "href": "projects.html#streamlit-bayesian-optimization-interactive-tool",
+    "title": "Emma Pajak",
+    "section": "Streamlit Bayesian Optimization Interactive Tool",
+    "text": "Streamlit Bayesian Optimization Interactive Tool\n\n\n\nThumbnail"
+  },
+  {
+    "objectID": "bayes_opt.html#link-to-page",
+    "href": "bayes_opt.html#link-to-page",
+    "title": "Emma Pajak",
+    "section": "Link to Page",
+    "text": "Link to Page"
+  },
+  {
+    "objectID": "bayes_opt.html#link-to-project-page",
+    "href": "bayes_opt.html#link-to-project-page",
+    "title": "Emma Pajak",
+    "section": "Link to Project Page",
+    "text": "Link to Project Page"
   }
 ]

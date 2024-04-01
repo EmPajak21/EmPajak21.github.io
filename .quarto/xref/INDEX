@@ -13,5 +13,8 @@
   },
   "blog.qmd": {
     "blog.html": "497bc0bf"
+  },
+  "bayes_opt.qmd": {
+    "bayes_opt.html": "2d6ea787"
   }
 }
