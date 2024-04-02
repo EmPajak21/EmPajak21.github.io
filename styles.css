@@ -1,0 +1,25 @@
+/* css styles */
+body {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 16px;
+    text-align: justify;
+}
+
+.navbar {
+    background-color: #9fb69d; /* Change this to the desired color */
+    color: rgb(255, 255, 255); /* Adjust text color for better readability */
+}
+
+.container {
+    display: flex; /* Use flexbox for layout */
+    align-items: center; /* Vertically center items */
+    justify-content: center; /* Center items horizontally */
+    text-align: center; /* Center text inside the container */
+  }
+
+  .circle-image {
+    width: 200px; /* Set the width and height to create a circular shape */
+    border-radius: 50%; /* Make it a circle by setting border-radius to 50% */
+    object-fit: cover; /* Ensure the image covers the entire container */
+    align-items: center; /* Vertically center items */
+  }
