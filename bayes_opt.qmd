@@ -24,9 +24,10 @@
     </style>
 </head>
 
-<center>
-## [Link to Project Page](https://bayes-opt.streamlit.app)
-</center>
+
+:::{.center}
+[Link to Project Page](https://bayes-opt.streamlit.app)
+:::
 
 <head>
     <iframe src="https://bayes-opt.streamlit.app/?embedded=true" width="800" height="2000" frameborder="0" scrolling="no" embedded=True></iframe>
